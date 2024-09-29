@@ -13,7 +13,7 @@ This Weather App is a dynamic web application built using CSS, JavaScript, HTML,
 - **Responsive Design**: Built with a responsive layout to ensure optimal viewing experience across various devices and screen sizes.
 
 ### How to Use:
-1. Enter your location in the search bar.
+1. Enter your location in the search bar. 
 2. Press Enter or click the search icon to fetch weather data. 
 3. View the current weather conditions, including temperature, humidity, wind speed, and weather type.
 4. Enjoy the visually appealing interface that dynamically changes based on the current weather.
