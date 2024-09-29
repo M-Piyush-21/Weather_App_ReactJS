@@ -6,7 +6,7 @@
 
 This Weather App is a dynamic web application built using CSS, JavaScript, HTML, and React. It provides users with real-time weather information based on their location input. The app fetches weather data from the OpenWeatherMap API and displays it in an intuitive and visually appealing interface.
 
-### Features:
+### Features: 
 - **Real-time Weather Data**: Fetches weather data from the OpenWeatherMap API to provide users with up-to-date weather information.
 - **Location-based Weather**: Allows users to input their location and receive weather updates specific to their area.
 - **Visual Representation**: Displays weather conditions using custom-designed icons and background gradients for different weather types.
