@@ -2,7 +2,7 @@
 
 ---
 
-## Weather App
+## Climora (Weather App)
 
 This Weather App is a dynamic web application built using CSS, JavaScript, HTML, and React. It provides users with real-time weather information based on their location input. The app fetches weather data from the OpenWeatherMap API and displays it in an intuitive and visually appealing interface.
 
